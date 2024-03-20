@@ -26,7 +26,7 @@ GOOGLE_CALLBACK_URL=http://localhost:5000/google/callback
 $ git clone <repository-url>
 $ cd notes-nodejs-crud-mongodb
 
-* Install dependencies using npm:
+Install dependencies using npm:
 
 $ npm install
 * Start the server:
