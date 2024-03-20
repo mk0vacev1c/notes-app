@@ -1,6 +1,4 @@
 # notes-app
-Building MERN stack Notes app with Node JS, Express, MongoDB, Passport, Google Auth, BootStrap &amp; EJS
-
 This is a Node.js application that allows users to perform CRUD (Create, Read, Update, Delete) operations on notes stored in a MongoDB database. It provides a RESTful API for managing notes.
 
 ## Updates
